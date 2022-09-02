@@ -1,0 +1,36 @@
+body {
+    background: darkgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-weight: 800;
+    position: absolute;
+    top: 40%;
+    left: 45%;
+
+}
+
+header{
+    text-align: center;
+}
+
+section {
+    background-color: rgba(21, 26, 26, 0.319);
+    padding: 5px 40px 15px 10px;
+    margin: auto;
+    box-shadow: 15px 15px 25px rgba(59, 59, 59, 0.972);
+    border-radius: 15px;
+    width: 90px;
+    height: 10px;
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+    padding: 15px;
+}
+
+input[type="button"] {
+    background-color: rgba(240, 248, 255, 0);
+    color: rgb(0, 0, 0);
+    border: none;
+  }
